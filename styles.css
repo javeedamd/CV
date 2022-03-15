@@ -37,7 +37,7 @@ body
 
 .experiencegist{
   background-color:#5D8BF4;
-  text-align: center;
+  text-align: justify;
   font-size:70%;
   margin:0px;
   padding: 200px;
@@ -59,7 +59,7 @@ body
 
 .education{
   background-color:#5D8BF4;
-  text-align: center;
+  text-align: justify;
   font-size:70%;
   margin:0px;
   padding: 200px;
@@ -67,7 +67,8 @@ body
 }
 .techskills{
   /*background-color:#5D8BF4;*/
-  table-layout: auto;
+  font-size: 90%;
+  text-align: justify;
   padding-top: 0px;
   padding-left: 350px;
   padding: 200px;
@@ -98,7 +99,7 @@ body
   text-align:center;
   color:#876445;
   font-size:200%;
-  
+
   margin:0px;
   padding-top: 15px;
   padding-bottom: 170px;
