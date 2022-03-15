@@ -1,0 +1,106 @@
+body
+{
+  background-color:#5D8BF4 ;
+  font-family:  Segoe UI, Helvetica, sans-serif;
+  margin:0px;
+  position: relative;
+  text-align: center;
+}
+.name,.experiencegist,.education,.acheivements,.contact{
+  background-color:#5D8BF4;
+  }
+
+.about,.certifications,.techskills,.jobRoles{
+  background-color:#CDDEFF;
+}
+
+.name{
+  background-color:#5D8BF4;
+  text-align: justify;
+  text-align: center;
+  margin:0px;
+  padding: 200px;
+  height: 300px;
+}
+
+.about,.certifications{
+  background-color:#CDDEFF;
+  position: relative;
+  text-align: center;
+  font-size:85%;
+  margin:0px ;
+  padding: 100px;
+  height: 500px;
+  margin-block-start: 0px;
+
+}
+
+.experiencegist{
+  background-color:#5D8BF4;
+  text-align: center;
+  font-size:70%;
+  margin:0px;
+  padding: 200px;
+  height: 400px;
+}
+
+.certifications{
+  background-color:#CDDEFF;
+  position: relative;
+  text-align: justify;
+  font-size:60%;
+  line-height: 50px;
+  margin:0px ;
+  padding: 100px;
+  padding-left:150px;
+  height: 500px;
+  margin-block-start: 0px;
+}
+
+.education{
+  background-color:#5D8BF4;
+  text-align: center;
+  font-size:70%;
+  margin:0px;
+  padding: 200px;
+  height: 400px;
+}
+.techskills{
+  /*background-color:#5D8BF4;*/
+  table-layout: auto;
+  padding-top: 0px;
+  padding-left: 350px;
+  padding: 200px;
+  height: 700px;
+}
+
+.acheivements{
+  /*background-color:#CDDEFF;*/
+  text-align: justify;
+  font-size:70%;
+  margin:0px;
+  padding: 200px;
+  height: 400px;
+}
+
+.jobRoles{
+  /*background-color:#5D8BF4;*/
+  text-align: justify;
+  margin:0px;
+  padding: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 1300px;
+}
+
+.contact{
+  position: relative;
+  text-align:center;
+  color:#876445;
+  font-size:200%;
+  
+  margin:0px;
+  padding-top: 15px;
+  padding-bottom: 170px;
+  height: 120px;
+}
